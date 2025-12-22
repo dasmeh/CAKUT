@@ -20,8 +20,7 @@ Together, these findings reveal a **conserved stromal–mesenchymal gene signatu
 Cell-type–specific enrichment of CAKUT-associated genes was quantified using the **single-cell Disease Relevance Score (scDRS)** framework, which integrates disease gene sets with single-cell transcriptomic profiles while controlling for gene expression confounders.
 
 **scDRS paper**  
-Cao et al., *Cell*, 2023  
-https://www.cell.com/cell/fulltext/S0092-8674(22)01534-4  
+https://www.nature.com/articles/s41588-022-01167-z
 
 **scDRS GitHub repository**  
 https://github.com/martinjzhang/scDRS
