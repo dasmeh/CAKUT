@@ -46,7 +46,7 @@ Datasets include:
 
 ## Interactive data exploration (CELLxGENE)
 
-All primary datasets are additionally accessible through **CELLxGENE Explorer** for interactive visualization and exploration.
+The primary datasets used in our analyses are accessible through **CELLxGENE Explorer** for interactive visualization and exploration.
 
 ### Human fetal kidney
 Developmental single-cell atlas capturing nephrogenesis, stromal and mesenchymal lineages.
